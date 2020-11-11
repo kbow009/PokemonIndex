@@ -1,1 +1,1 @@
-let pokemonList = [{ name: "Bulbasaur", height: 0.7m, type:['grass', 'poison'] }, { name:"Charmander", height:0.6m, Type:'fire'}, {name:"Pikachu", height: 0.4m , type:'electric'}, {name:"Nidoqueen" , height:1.3m , type:['ground','poison'] }];
+let pokemonList = [{ name: "Bulbasaur", height: '0.7m', type:['grass', 'poison'] }, { name:"Charmander", height:'0.6m', Type:'fire'}, {name:"Pikachu", height: '0.4m' , type:'electric'}, {name:"Nidoqueen" , height:'1.3m' , type:['ground','poison'] }];
